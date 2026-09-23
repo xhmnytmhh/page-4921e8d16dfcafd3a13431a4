@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4d56b881105d624c309926db",
+  "owner": "xhmnytmhh",
+  "repo": "page-4921e8d16dfcafd3a13431a4",
+  "title": "指画青藤",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4921e8d16dfcafd3a13431a4",
+      "a": "指画青藤",
+      "b": "2027最新官网",
+      "entity": "指画青藤",
+      "brand": "指画青藤",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "021b25db790ef98da73155b22efc735edba57ee6d3154a0c3e027c4054a3d47a",
+      "content": {
+        "primary_entity": "指画青藤",
+        "keyword1": "指画青藤",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，获取对应订阅配置。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求和订阅周期提供三档选择。基础版每月 100GB 流量，支持 3 台设备同时在线；旗舰版每月 300GB 流量，支持 5 台设备，并配备 IPLC 专线游戏加速优化；团队版每月 1000GB 流量，支持 20 台设备，提供 VIP 专属高带宽节点。按年付可享对应优惠，用户可结合常用客户端与设备数量选择合适档位。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，按常用设备数量选择。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 或 1000GB 流量，按日常使用强度匹配。",
+          "AI_FEATURE_TITLE_2": "按流量需求选择",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_3": "按月付或年付订阅",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "指画青藤提供基础版、旗舰版与团队版三档海外加速套餐，分别面向轻度浏览、多设备主力使用与团队协作场景。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并配备 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备。月付与年付均可选择，结合设备数量与流量需求即可定位合适档位。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备与流量需求",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量从 100GB 到 1000GB",
+          "AI_HIGHLIGHT_3": "月付年付灵活订阅",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻度使用，旗舰版适合 5 台设备多场景切换，团队版适合 20 台设备高流量协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定套餐。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量、流量额度与订阅周期，确认符合使用习惯。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照所用客户端的配置文档导入订阅，完成连接设置。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "指画青藤加速套餐",
+          "AI_FAQ_ANSWER_1": "根据设备数量与月流量选。单人三台设备以内、流量需求不高可选基础版；需要更多设备与专线游戏加速可选旗舰版；团队多设备选团队版。",
+          "AI_FAQ_ANSWER_2": "一个订阅通常覆盖套餐规定的设备数量，基础版 3 台，旗舰版 5 台，团队版 20 台。超出时可升级套餐或调整在线设备。",
+          "AI_FAQ_ANSWER_3": "在账户内找到订阅链接或配置文件，复制到所选的客户端中导入即可。不同客户端导入方式略有差异，可参考客户端说明。",
+          "AI_FAQ_ANSWER_4": "月付适合短期使用，年付价格更低。基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用选年付更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版支持全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。具体可用范围随节点与地区不同，可先选基础版测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "指画青藤的套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏加速支持哪些套餐？",
+          "AI_FAQ_TITLE": "套餐与设备常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "muguayunjc.com",
+    "host": "muguayunjc.com"
+  },
+  "file_hashes": {
+    "index.html": "e38e24a0ff3d65acefc3ed61e827110ca2308847ae375446f61efa300c9f005b",
+    "sitemap.xml": "eb66682eb6fda50b4a8ae6b158d9c774d9dca821f10001d7cd6a1af1385af685",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d83a30166de7a3b43a9b3e5ffaa7c0a380366baaf1d470bfc604726a5d6249d9",
+    "robots.txt": "10b66b23305a33e1bbec731f8bb54408c0786ac90d56db58fbe4ca588efca313",
+    "e55c31a409c9824e58355d141015228a.txt": "73ddf483493a07d159dbc6909a7813e9d0030743c830c0e69f21713eddbb092e"
+  },
+  "revision": "e0c35a34c9d6d8e13ab59cb6c148d7900dc3a834357a52cf087181100b004525"
+}
